@@ -5,3 +5,9 @@ So for the moment i'm using the gemini 2 flash model
 
 ## TODO:
 force output in json
+
+## Usage:
+to test it: 
+- rename .env.example to .env
+- add your gemini api key
+- run test.ipynb
